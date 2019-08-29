@@ -1,5 +1,5 @@
-# Custom React Boilerplate
-Building react  boilerplate from scratch.
+#  React Boilerplate Starter
+Building react  boilerplate starter.
 
 ## Instructions
 `npm install`
