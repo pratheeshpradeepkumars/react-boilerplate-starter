@@ -1,5 +1,5 @@
 #  React Boilerplate Starter
-Building react  boilerplate starter.
+React  boilerplate starter template.
 
 ## Instructions
 `npm install`
