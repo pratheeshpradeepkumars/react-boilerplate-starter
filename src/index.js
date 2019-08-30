@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './components/App';
 
-import './styles/style.less';
+import './index.less';
 
 ReactDOM.render(
     <App />,
